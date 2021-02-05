@@ -1,1 +1,1 @@
-# python_practices
+# Python/Torch/GPytorch exercises
